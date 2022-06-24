@@ -1,0 +1,22 @@
+.logo--img {
+    width: 7vw;
+    height: 6vh;
+    background: rgb(252, 252, 252);
+    border-radius: 30rem;
+}
+.navbar-custom {
+    background-color: rgb(240, 132, 235);
+    min-height: 10vh;
+}
+.white-bg{
+    background-color: azure;
+}
+.dark-text{
+    color: black;
+}
+.border-radius {
+    border-radius: 20px;
+}
+.border-white{
+    border : 4px solid white;
+}

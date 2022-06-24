@@ -1,0 +1,5 @@
+demucs
+PySound
+ffmpeg
+mutagen
+flask 
